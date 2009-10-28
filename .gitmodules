@@ -22,9 +22,6 @@
 [submodule "vim-unimpaired"]
         path = bundle/vim-unimpaired
         url = git://github.com/tpope/vim-unimpaired.git
-[submodule "vim-pastie"]
-        path = bundle/vim-pastie
-        url = git://github.com/tpope/vim-pastie.git
 [submodule "nerdtree"]
 				path = bundle/nerdtree
 				url = git://github.com/scrooloose/nerdtree.git
@@ -34,3 +31,21 @@
 [submodule "snipmate"]
 				path = bundle/snipmate
 				url = git://github.com/msanders/snipmate.vim.git
+[submodule "bundle/vim-git"]
+	path = bundle/vim-git
+	url = git://github.com/tpope/vim-git.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-haml"]
+	path = bundle/vim-haml
+	url = git://github.com/tpope/vim-haml.git
+[submodule "bundle/vim-abolish"]
+	path = bundle/vim-abolish
+	url = git://github.com/tpope/vim-abolish.git
+[submodule "bundle/vim-pastie"]
+	path = bundle/vim-pastie
+	url = git://github.com/tpope/vim-pastie.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = git://github.com/msanders/snipmate.vim.git
